@@ -1,5 +1,5 @@
-primera linea del commi version 1.0
+primera linea del commit, con varias lineas y cambios nuevos
 
-segunda linea del commi version 1.0
+segunda linea del commit, se estan probando los comando checkout, stat, log, show y diff
 
-tercera linea del commi version 1.0
+tercera linea del commit.
