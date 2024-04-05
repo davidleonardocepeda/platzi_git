@@ -13,7 +13,6 @@ body {
     color: chocolate;
 }
 
-<<<<<<< HEAD
 h2 {
     color: greenyellow;
 }
@@ -24,9 +23,9 @@ h4 {
 
 p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-=======
+}
+
 #pie {
     color: blueviolet;
     font-family: 'Courier New', Courier, monospace;
->>>>>>> master
 }
