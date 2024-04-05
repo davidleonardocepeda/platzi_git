@@ -7,3 +7,8 @@ body {
     text-align: center;
     color: chocolate;
 }
+
+#pie {
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
