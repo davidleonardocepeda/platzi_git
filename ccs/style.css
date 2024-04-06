@@ -9,7 +9,7 @@ h1 {
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
-    color: chocolate;
+    color: black;
     background-color: black;
     margin: 2px solid red;
 }
@@ -27,11 +27,16 @@ p {
 }
 
 #pie {
+    padding: 1% 5%;
     color: blueviolet;
     font-family: 'Courier New', Courier, monospace;
+    background-color: blue;
+    padding: 0%;
 }
 
 #cuerpo{
-    padding: 5% 10%;
+    padding: 2% 10%;
     margin: 2px solid gold;
+    color: firebrick;
+    background-color: darkgoldenrod;
 }
