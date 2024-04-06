@@ -4,7 +4,6 @@ h1 {
 
 #cabecera {
     background-color: cadetblue;
-    border: 1ch gold solid;
 }
 
 body {
@@ -12,6 +11,7 @@ body {
     text-align: center;
     color: chocolate;
     background-color: black;
+    margin: 2px solid red;
 }
 
 h2 {
@@ -29,4 +29,9 @@ p {
 #pie {
     color: blueviolet;
     font-family: 'Courier New', Courier, monospace;
+}
+
+#cuerpo{
+    padding: 5% 10%;
+    margin: 2px solid gold;
 }
