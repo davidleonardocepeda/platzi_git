@@ -10,7 +10,7 @@ h1 {
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
-    color: chocolate;
+    color: black;
     background-color: black;
 }
 
@@ -27,6 +27,19 @@ p {
 }
 
 #pie {
+    padding: 1% 5%;
     color: blueviolet;
     font-family: 'Courier New', Courier, monospace;
+<<<<<<< HEAD
+=======
+    background-color: blue;
+    padding: 0%;
+}
+
+#cuerpo{
+    padding: 2% 10%;
+    margin: 2px solid gold;
+    color: firebrick;
+    background-color: darkgoldenrod;
+>>>>>>> 541982b (Reajustes al style de la pagina)
 }
