@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-primera linea del commit, con varias lineas y cambios nuevos
+primera linea del commit, +  1
 
-segunda linea del commit, se estan probando los comando checkout, stat, log, show y diff
-=======
-primera linea del commit,
+segunda linea del commit,  + 2
 
-segunda linea del commit,
->>>>>>> master
-
-tercera linea del commit.
+tercera linea del commit. + 3
