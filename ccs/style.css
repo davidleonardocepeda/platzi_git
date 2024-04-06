@@ -4,13 +4,14 @@ h1 {
 
 #cabecera {
     background-color: cadetblue;
-    border: 1ch black solid;
+    border: 1ch gold solid;
 }
 
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     color: chocolate;
+    background-color: black;
 }
 
 h2 {
